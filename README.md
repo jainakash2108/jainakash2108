@@ -123,6 +123,7 @@
     </div>
     <div style="flex: 33.3;">
         <div style="text-align: left;">
+           <a href="https://github.com/jainakash2108/aws-lambda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jainakash2108&repo=aws-lambda&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
         </div>
     </div>
 </div>
