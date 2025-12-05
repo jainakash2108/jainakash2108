@@ -7,6 +7,7 @@ Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com
 
 **Education:** Bachelor of Engineering (Computer Science), 2007–2011
 
+[Resume](folder/myfile.pdf)
 ---
 
 ## SUMMARY
