@@ -1,7 +1,11 @@
 # AKASH JAIN
 **Senior Backend Developer | Java · Kotlin · Microservices · Distributed Systems**  
 Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com  
-LinkedIn: linkedin.com/in/jainakash2108 · GitHub: github.com/jainakash2108
+**LinkedIn**: linkedin.com/in/jainakash2108 · **GitHub**: github.com/jainakash2108
+
+**Personal Details:** Oslo, Norway · Languages: English, Hindi, Norwegian (A1)
+
+**Education:** Bachelor of Engineering (Computer Science), 2007–2011
 
 ---
 
@@ -9,6 +13,19 @@ LinkedIn: linkedin.com/in/jainakash2108 · GitHub: github.com/jainakash2108
 Senior Backend Developer with 13+ years of experience in Java and Kotlin, building scalable microservices, distributed systems, and mission‑critical backend platforms in logistics, payments, and enterprise domains. Proven track record at Posten/Bring delivering high‑availability services used by millions of users. Strong in system design, distributed event processing, performance optimization, cloud migration (Azure), secure payment flows, and end‑to‑end feature ownership in agile teams.
 
 ---
+
+## CERTIFICATIONS
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Fundamentals
+- GitHub Foundations
+- The Nuts and Bolts of OAuth 2.0
+- Docker for the Absolute Beginner – Hands On – DevOps
+- Kubernetes for the Absolute Beginners – Hands On
+
+## HONORS & AWARDS
+- TCS AI Spark Award
+- On The Spot Award (x2)
+- Special Initiative Award
 
 ## KEY ACHIEVEMENTS
 - Designed a distributed event retry engine with scheduled backoff, improving resilience and reducing API failure retries by **90%**.
@@ -28,8 +45,8 @@ Senior Backend Developer with 13+ years of experience in Java and Kotlin, buildi
 **Backend:** Java, Kotlin, Spring Boot, Microservices, REST APIs, Kafka, TDD, DDD, MockK, Kotest, BDD  
 **Database:** PostgreSQL, Oracle, PL/SQL, Liquibase, schema refactoring, DB optimization  
 **Cloud / DevOps:** Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD, Maven, Gradle  
-**Frontend:** React, JavaScript, TypeScript (contributed to UI features for end‑to‑end delivery)  
-**Tools:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control‑M
+**Frontend:** React, JavaScript, TypeScript (contributed to UI features for end‑to‑end delivery)
+**Tools:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control-M:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control‑M
 
 ---
 
@@ -64,7 +81,7 @@ Technologies: Java, Kotlin, Spring Boot, Kafka, PostgreSQL, React, Azure DevOps,
 - Ensured GDPR compliance within user services and optimized DB queries to remove performance bottlenecks.
 - Actively contributed to architectural improvements and modernization of CI/CD pipelines.
 
-**Scale & Impact:** Services used by **5M+ users** and process **millions of parcel events daily**.
+**Scale & Impact:** Services used by **7M+ users** and process **millions of parcel events daily**.
 
 ---
 
@@ -116,15 +133,4 @@ Technologies: Java, Kotlin, Spring Boot, Kafka, PostgreSQL, React, Azure DevOps,
 ### **American Express (Cognizant) — Java Developer**  
 *Dec 2011 – Jan 2012*
 - Built backend modules for automating customer data upload processes.
-
----
-
-## EDUCATION
-**Bachelor of Engineering (Computer Science)**
-
----
-
-## PERSONAL DETAILS
-Location: Oslo, Norway  
-Languages: English, Norwegian (beginner)
 
