@@ -28,7 +28,7 @@ Senior Backend Developer with 13+ years of experience in Java and Kotlin, buildi
 **Backend:** Java, Kotlin, Spring Boot, Microservices, REST APIs, Kafka, TDD, DDD, MockK, Kotest, BDD  
 **Database:** PostgreSQL, Oracle, PL/SQL, Liquibase, schema refactoring, DB optimization  
 **Cloud / DevOps:** Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD, Maven, Gradle  
-**Frontend (10%):** React, JavaScript, TypeScript (contributed to UI features for end‑to‑end delivery)  
+**Frontend:** React, JavaScript, TypeScript (contributed to UI features for end‑to‑end delivery)  
 **Tools:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control‑M
 
 ---
