@@ -1,4 +1,4 @@
-# AKASH JAIN [Resume](https://github.com/jainakash2108/jainakash2108/blob/master/CV_Akash_Jain_Senior_Backend_Developer.pdf)
+# AKASH JAIN
 **Senior Backend Developer | Java · Kotlin · Microservices · Distributed Systems**  
 Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com  
 **LinkedIn**: linkedin.com/in/jainakash2108 · **GitHub**: github.com/jainakash2108
@@ -6,6 +6,8 @@ Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com
 **Personal Details:** Oslo, Norway · Languages: English, Hindi, Norwegian (A1)
 
 **Education:** Bachelor of Engineering (Computer Science), 2007–2011
+
+[📥 Download Resume](https://github.com/jainakash2108/jainakash2108/blob/master/CV_Akash_Jain_Senior_Backend_Developer.pdf)
 
 ---
 
