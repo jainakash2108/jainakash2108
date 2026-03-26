@@ -1,138 +1,148 @@
-# AKASH JAIN
-**Senior Backend Developer | Java · Kotlin · Microservices · Distributed Systems**  
-Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com  
-**LinkedIn**: linkedin.com/in/jainakash2108 · **GitHub**: github.com/jainakash2108
+# Akash Jain
+**Senior Full Stack Engineer** — Java · Kotlin · Spring Boot · React · TypeScript · Distributed Systems · Azure (AKS)
 
-**Personal Details:** Oslo, Norway · Languages: English, Hindi, Norwegian (A1)
+Oslo, Norway · +47 47 74 11 78 · jainakash.11@gmail.com · linkedin.com/in/jainakash2108 · github.com/jainakash2108
 
-**Education:** Bachelor of Engineering (Computer Science), 2007–2011
-
-[📥 Download Resume](https://github.com/jainakash2108/jainakash2108/blob/master/CV_Akash_Jain_Senior_Backend_Developer.pdf)
+**Certifications:** Azure Developer Associate · Azure Fundamentals · GitHub Foundations · OAuth 2.0 · Docker · Kubernetes
 
 ---
 
-## SUMMARY
-Senior Backend Developer with 13+ years of experience in Java and Kotlin, building scalable microservices, distributed systems, and mission‑critical backend platforms in logistics, payments, and enterprise domains. Proven track record at Posten/Bring delivering high‑availability services used by millions of users. Strong in system design, distributed event processing, performance optimization, cloud migration (Azure), secure payment flows, and end‑to‑end feature ownership in agile teams.
+## Professional Summary
+
+Senior Full Stack Engineer with 14+ years of experience building scalable, fault-tolerant microservices and modern web applications across logistics, payments, and enterprise domains.
+
+Strong in Java and Kotlin (Coroutines, modern concurrency incl. Virtual Threads), Spring Boot, React/TypeScript, and event-driven architectures with Kafka.
+
+Cloud-native delivery on Azure (AKS, PostgreSQL Flexible Server, Azure AD) with focus on reliability (idempotency, retries/backoff, circuit breakers), security (OAuth 2.0 / OIDC), observability, and performance.
+
+Hands-on with AI-assisted development (GitHub Copilot, Claude/Opus, Codex) and GenAI patterns (RAG/enterprise search) to improve developer productivity safely.
+
+Proven end-to-end ownership from Jira requirements through deployment; effective collaborator and mentor in cross-functional agile teams.
 
 ---
 
-## CERTIFICATIONS
+## Key Highlights
+
+- Designed services used by **7M+ users** and processing **millions of daily parcel events** (tracking, sharing, notifications).
+- Reduced API failure retries by ~90% by designing a distributed retry engine with exponential backoff and safe rescheduling.
+- Eliminated duplicate mobile charges by implementing idempotency keys and safe retry behaviour in payment flows.
+- Led migration of a **500 GB** on-prem database to Azure PostgreSQL Flexible Server with minimal downtime and zero data loss.
+- Improved response times by **40–60%** across critical services by resolving DB bottlenecks and tuning runtime behaviour.
+- Delivered zero-downtime cloud migrations using blue-green deployments and NGINX reverse proxy traffic shifting.
+
+---
+
+## Technical Skills
+
+- **Languages:** Java, Kotlin (Coroutines), TypeScript, JavaScript, PL/SQL, Unix Shell
+- **Concurrency:** Kotlin Coroutines, Java Virtual Threads, async/non-blocking patterns
+- **Backend:** Spring Boot, REST API design, Microservices, DDD, TDD/BDD, SOLID, JetBrains Exposed, Spring Batch/Integration
+- **Frontend:** React, TypeScript, component-driven UI, API integration
+- **Payments:** Vipps, NETS, Adyen (recurring/scheduled flows, idempotency keys, safe retries)
+- **Identity & Security:** OAuth 2.0/OIDC, Vipps Login, Azure AD integration, GDPR, vulnerability management
+- **Messaging/Streaming:** Kafka, Azure Event Hub, Azure Service Bus, IBM MQ
+- **Databases:** PostgreSQL, Oracle, Liquibase, query optimisation, schema refactoring
+- **Cloud/DevOps:** Azure (AKS, AD, Flexible Server), Docker, Kubernetes, GitHub Actions, Azure DevOps, TeamCity/Jenkins, Maven/Gradle
+- **Reliability/Observability:** circuit breakers, retries/backoff, bulkheads, blue-green deployments, monitoring, distributed tracing, metrics dashboards
+- **GenAI (hands-on):** RAG patterns, embeddings, enterprise search, prompt engineering; tools: Copilot, Claude (Opus), Codex
+- **Tools:** Git, GitHub, Jira, IntelliJ IDEA
+
+---
+
+## Selected Projects
+
+- **Payments (Adyen/NETS/Vipps):** secure payment flows with recurring/scheduled payments; implemented idempotency and safe retries to prevent double charges.
+- **Identity (Vipps Login + OAuth 2.0/OIDC):** login integration and service-to-service auth with Azure AD applications.
+- **Distributed Retry Engine:** PostgreSQL-backed retry queue with exponential backoff and scheduled execution using ShedLock.
+- **Parcel Tracking & Sharing (consumer app):** real-time Kafka ingestion, parcel lifecycle tracking, and secure parcel sharing with pickup permissions.
+- **Cloud + data migrations:** AKS migration with blue/green cutovers; 500 GB PostgreSQL migration to Azure Flexible Server with minimal downtime.
+- **Modernisation:** Java→Kotlin migrations and JavaScript→TypeScript migrations to improve maintainability and correctness.
+
+---
+
+## Professional Experience
+
+### Posten Bring AS (via TCS) — Senior Software Developer / Full Stack Developer
+**Oslo, Norway** · **Nov 2019 – Present**  
+**Technologies:** Java, Kotlin, Spring Boot, Kafka, PostgreSQL, Liquibase, React, TypeScript, Azure (AKS, AD), Docker, Kubernetes, GitHub Actions
+
+- Designed, built, and owned services for parcel tracking, sharing, user services, delivery instructions enrichment, rewards, notifications, and feedback (7M+ users).
+- Built real-time parcel event ingestion with Kafka and ensured reliable processing across the parcel lifecycle.
+- Integrated payments with Adyen, NETS, and Vipps (including recurring/scheduled flows) and enforced idempotency + safe retries to prevent double charges.
+- Implemented login integration using Vipps Login and configured Azure AD applications for secure internal service-to-service authentication.
+- Led migrations to AKS and PostgreSQL Flexible Server; executed blue-green deployments and NGINX-based traffic shifting for zero downtime.
+- Standardised database change management via Liquibase in CI/CD, improving release safety and reducing manual steps.
+- Delivered performance and reliability improvements (SQL tuning, pooling, caching, circuit breakers) to reduce latency and prevent cascading failures.
+- Security Champion: vulnerability triage/remediation, monitoring strategy, and disaster recovery planning + hands-on DR exercises.
+- Mentored peers on clean code, SOLID, and system design; contributed to platform modernisation and pipeline improvements.
+
+### Barclays Investment Bank (via TCS) — Java Developer
+**Pune, India** · **Mar 2017 – Oct 2019**  
+**Technologies:** Java, Spring Batch, Spring Integration, Oracle, PL/SQL, IBM MQ, TeamCity, Jira, JBehave
+
+- Built Spring Batch/Integration services to process high-volume financial transactions via IBM MQ.
+- Improved Basel III regulatory reporting by resolving cashflow, payment, and ledger processing delays.
+- Implemented BDD testing with JBehave to improve regression safety and clarify transaction flows for stakeholders.
+
+### Credit Suisse (via TCS) — Java Developer
+**Pune, India** · **Jan 2016 – Feb 2017**  
+**Technologies:** Java, EJB, PL/SQL, Oracle, Control-M, Unix
+
+- Enhanced invoicing systems and automated batch workflows using Control-M and Unix scripts.
+
+### Expedia Group (via Cognizant) — Java Developer
+**Pune, India** · **Oct 2015 – Jan 2016**  
+**Technologies:** Java, Spring, Oracle, Maven, Git
+
+- Integrated airline partners and improved booking workflow stability by resolving connectivity and data consistency issues.
+
+### British Airways (via Cognizant) — Java Developer
+**Kolkata, India** · **Feb 2012 – Sep 2015**  
+**Technologies:** Java, Struts, Oracle, Unix, Jenkins, Maven
+
+- Enhanced reporting workflows and automated internal processes, collaborating closely with business stakeholders.
+
+### American Express (via Cognizant) — Java Developer
+**Hyderabad, India** · **Dec 2011 – Jan 2012**  
+**Technologies:** Java
+
+- Developed backend modules to automate customer data upload and processing workflows.
+
+---
+
+## Certifications
+
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Fundamentals
 - GitHub Foundations
 - The Nuts and Bolts of OAuth 2.0
 - Docker for the Absolute Beginner – Hands On – DevOps
 - Kubernetes for the Absolute Beginners – Hands On
+- Build search and recommendations applications with AI Applications
 
-## HONORS & AWARDS
+---
+
+## Education
+
+Bachelor of Engineering (Computer Science) · 2007 – 2011
+
+---
+
+## Awards
+
 - TCS AI Spark Award
-- On The Spot Award (x2)
+- On The Spot Award (×2)
 - Special Initiative Award
-
-## KEY ACHIEVEMENTS
-- Designed a distributed event retry engine with scheduled backoff, improving resilience and reducing API failure retries by **90%**.
-- Eliminated duplicate iOS user charges by implementing idempotency, reducing double‑payment incidents to **zero**.
-- Built and owned parcel tracking and parcel‑sharing services used by **millions of users across Norway**.
-- Led cloud migration of legacy systems to Azure Kubernetes & Postgres with **zero downtime**.
-- Modernized DB deployment processes using Liquibase, replacing manual CLI operations across multiple services.
-- Improved performance of parcel/user services by addressing DB bottlenecks, reducing response time by **40–60%**.
-- Contributed to architectural decision‑making, platform modernization, and CI/CD improvements.
+- ICON of T&H
+- Contextual Master Award
+- Service & Commitment Award
+- Learning Achievement Award
 
 ---
 
-## TECHNICAL SKILLS
-**Senior-Level Backend Capabilities:** Scalability, High Availability, Distributed Systems, Event-Driven Architecture, System Design, API Design, Observability (Logs/Tracing/Metrics), Security Best Practices, Performance Tuning, Cloud-Native Architecture, CI/CD Automation, Resilience Engineering, Fault Tolerance, Caching Strategies, Blue-Green Deployments, Domain Modeling
+## Languages
 
-
-**Backend:** Java, Kotlin, Spring Boot, Microservices, REST APIs, Kafka, TDD, DDD, MockK, Kotest, BDD  
-**Database:** PostgreSQL, Oracle, PL/SQL, Liquibase, schema refactoring, DB optimization  
-**Cloud / DevOps:** Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD, Maven, Gradle  
-**Frontend:** React, JavaScript, TypeScript (contributed to UI features for end‑to‑end delivery)
-**Tools:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control-M:** Git, GitHub, Bitbucket, Jenkins, TeamCity, Jira, IBM MQ, Control‑M
-
----
-
-## ARCHITECTURE & SYSTEM DESIGN EXPERIENCE
-- Designed highly available, horizontally scalable backend systems capable of handling production traffic spikes.
-- Implemented observability across services using structured logging, tracing, and monitoring dashboards.
-- Applied resilience patterns such as circuit breakers, retries, timeouts, bulkheads, and graceful degradation.
-- Designed service boundaries using domain-driven design (DDD) and event storming techniques.
-- Ensured API governance, versioning strategy, and backward compatibility for mobile and frontend clients.
-- Performed capacity planning, load analysis, and optimized for low-latency, high-throughput operations.
-
-- Event‑driven microservices with Kafka for parcel lifecycle tracking and internal communication.
-- Distributed retry/backoff engine using PostgreSQL queues, Spring @Scheduled tasks, and ShedLock.
-- Scalable REST API design with idempotency, clear domain boundaries, and backward‑compatible evolution.
-- Migration from monolith to microservices with domain refactoring and decoupled service responsibilities.
-- Cloud migrations to Azure Kubernetes with reverse proxy routing, blue‑green deployments, and secure access.
-- Database restructuring from shared public schema to application‑specific schemas.
-- Payment integration architecture for Adyen & NETS (recurring + scheduled payments).
-
----
-
-## EXPERIENCE
-### **Senior Backend Developer — Posten Bring AS (TCS)**  
-**Nov 2019 – Present**  
-Technologies: Java, Kotlin, Spring Boot, Kafka, PostgreSQL, React, Azure DevOps, Liquibase, GitHub Actions
-
-**Key Contributions:**
-- Designed and owned backend microservices for logistics operations, parcel tracking, and user services.
-- Built real‑time parcel event ingestion using Kafka, enabling improved tracking accuracy.
-- Integrated secure payment flows with Adyen & NETS supporting recurring and scheduled payments.
-- Migrated multiple legacy services to Azure Kubernetes and PostgreSQL Flexible Server.
-- Ensured GDPR compliance within user services and optimized DB queries to remove performance bottlenecks.
-- Actively contributed to architectural improvements and modernization of CI/CD pipelines.
-
-**Scale & Impact:** Services used by **7M+ users** and process **millions of parcel events daily**.
-
----
-
-## SELECTED PROJECTS
-### **Distributed Event Retry Engine with Scheduled Backoff**
-- Built a PostgreSQL‑backed retry queue storing failures with metadata (retry count, delay, reason).  
-- Implemented dynamic backoff logic (10s → 30s → 5m → 30m → 1h) and ensured single‑pod execution using ShedLock.  
-- Reduced manual intervention and improved eventual consistency across external API integrations.
-
-### **Payment Idempotency for Purchase API (Adyen/NETS)**
-- Eliminated double charges on iOS by introducing idempotency keys and safe retry behaviour.  
-- Removed 100% of duplicate payments and reduced customer service workload.
-
-### **Parcel Tracking & Parcel Sharing Services**
-- Developed services enabling users to track parcels, share pickup permissions, and manage deliveries in apps.  
-- Enhanced reliability using Kafka‑based event pipelines.
-
-### **PostgreSQL Migration to Azure + Liquibase Modernization**
-- Migrated large legacy DB to Azure Flexible Server with schema separation.  
-- Standardized DB deployments via Liquibase integrated into CI/CD.
-
-### **Cloud Migration with NGINX Reverse Proxy**
-- Led migration from legacy domain to cloud infrastructure with reverse proxy‑based traffic redirection.  
-- Ensured uninterrupted access and preserved SEO despite domain transition.
-
----
-
-## PREVIOUS EXPERIENCE
-### **Barclays (TCS) — Java Developer**  
-*Mar 2017 – Oct 2019*
-- Built Spring Batch/Spring Integration microservices for financial transaction processing via IBM MQ.
-- Improved Basel III reporting accuracy by resolving cashflow & ledger delays.
-- Implemented BDD testing with JBehave.
-
-### **Credit Suisse (TCS) — Java Developer**  
-*Jan 2016 – Feb 2017*
-- Enhanced invoicing systems using Java, EJB, PL/SQL, and Control‑M.
-- Automated Oracle procedures and Unix scripts to streamline invoicing.
-
-### **Expedia (Cognizant) — Java Developer**  
-*Oct 2015 – Jan 2016*
-- Integrated global airline partners and improved booking workflow stability.
-- Resolved GDS (Amadeus/Galileo) connectivity issues.
-
-### **British Airways (Cognizant) — Java Developer**  
-*Feb 2012 – Sep 2015*
-- Enhanced monolithic reporting features and automated claim code generation.
-
-### **American Express (Cognizant) — Java Developer**  
-*Dec 2011 – Jan 2012*
-- Built backend modules for automating customer data upload processes.
+- English (Fluent / Full professional)
+- Hindi (Native)
+- Norwegian / Bokmål (Elementary, A1)
 
